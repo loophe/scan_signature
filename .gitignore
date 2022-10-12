@@ -3,4 +3,5 @@ logs/
 node_modules/
 tables/
 tables_transfer/
+transferAndMore/
 .env
